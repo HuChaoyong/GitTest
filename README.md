@@ -1,7 +1,7 @@
 # GitTest
 this is a GitTest  repository  on temp I add some code.
 this is my local some change
-edit readme . and push on server
+edit readme . and push on 233333
 
 
 this line is my new edit on local
